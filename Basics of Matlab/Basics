@@ -1,0 +1,5 @@
+%use following command first to clear matlab window fully
+clc
+clear all
+%use home tab -> preferences -> font: change size, font etc
+% use home -> prefrences -> editor/debugger -> display -> enable datatips in edit mode: gives data size of variable used in code
