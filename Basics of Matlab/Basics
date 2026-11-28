@@ -1,4 +1,4 @@
-%use following command first to clear matlab window fully
+%use following command first to clear matlab window fully, clear all use for clearing workspace
 clc
 clear all
 %use home tab -> preferences -> font: change size, font etc
